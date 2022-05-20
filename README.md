@@ -16,9 +16,9 @@ Em 2015, criei um canal no YouTube, desta vez (com os aprendizados de um ano com
 
 Em 2016 comecei a mentorar pessoas (algo que está _on-hold_ no momento.)
 
-Ao longo das mentorias, mentorei muitas pessoas em assuntos relacionados a automação de testes (primeiro com Protractor, e mais recentemente com Cypress.)
+Ao longo das mentorias, mentorei muitas pessoas em assuntos relacionados à automação de testes (primeiro com Protractor, e mais recentemente com Cypress.)
 
-E então minha história com o Cypress chegou.
+E então minha história com o Cypress começou.
 
 ## Em 2018
 
