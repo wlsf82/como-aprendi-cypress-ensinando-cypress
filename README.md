@@ -1,5 +1,7 @@
 # Como aprendi Cypress ensinando Cypress
 
+![Test status](https://github.com/wlsf82/como-aprendi-cypress-ensinando-cypress/actions/workflows/ci.yml/badge.svg)
+
 Há algum tempo, descobri que a forma mais efetiva de aprender, é ensinando.
 
 Porém, para poder ensinar, você precisa aprender.
