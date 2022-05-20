@@ -73,3 +73,9 @@ ___
 ## _Hands-on_
 
 Um dos meus experimentos mais recentes foi com o plugin [cypress-terminal-report](https://www.npmjs.com/package/cypraess-terminal-report), e portanto, pensei em fazer uma breve sessão "mão-na-massa" pra te mostrar como ele funciona e o que ele se propõe a resolver.
+
+Obrigado!
+
+___
+
+Este projeto foi feito com ❤️ por [Walmyr](https://walmyr.dev).
