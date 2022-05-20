@@ -2,7 +2,7 @@
 
 Há algum tempo, descobri que a forma mais efetiva de aprender, é ensinando.
 
-Para poder ensinar, você precisa aprender.
+Porém, para poder ensinar, você precisa aprender.
 
 E não basta só saber, você tem que saber tão bem, ao ponto de explicar aos outros e se fazer entender.
 
@@ -10,7 +10,7 @@ Por volta de 2012, ou um pouco antes, "o bixo do compartilhamento de conheciment
 
 Em 2014, passei a compartilhar conhecimento por meio de _blog posts_ (no que hoje se tornou minha marca - Talking About Testing.)
 
-O intuito inicial do blog, era manter contato com as pessoas da minha rede profissional, quando decidi deixar Porto Alegre para morar em Florianópolis com minha esposa e nosso casal de gatos.
+O intuito inicial do blog era manter contato com as pessoas da minha rede profissional, quando decidi deixar Porto Alegre para morar em Florianópolis com minha esposa e nosso casal de gatos.
 
 Em 2015, criei um canal no YouTube, desta vez (com os aprendizados de um ano como _blogger_), para compartilhar meus aprendizados (na époda de sua criação, minhas experiências com o Protractor).
 
