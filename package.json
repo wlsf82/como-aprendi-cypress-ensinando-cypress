@@ -1,0 +1,22 @@
+{
+  "name": "como-aprendi-cypress",
+  "version": "1.0.0",
+  "description": "Há algum tempo, descobri que a forma mais efetiva de aprender, é ensinando.",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlsf82/como-aprendi-cypress-ensinando-cypress.git"
+  },
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wlsf82/como-aprendi-cypress-ensinando-cypress/issues"
+  },
+  "homepage": "https://github.com/wlsf82/como-aprendi-cypress-ensinando-cypress#readme",
+  "devDependencies": {
+    "cypress": "^9.6.1",
+    "cypress-terminal-report": "^3.5.2"
+  }
+}
