@@ -69,7 +69,7 @@ ___
 - Acompanho de perto o [_changelog_](https://docs.cypress.io/guides/references/changelog) do Cypress e suas novas versões
 - Acompanho outros criadores de conteúdo que conhecem o Cypress profundamente
 - Experimento novas (e antigas) funcionalidades, onde muitas vezes, faço ao vivo, compartilhando meu aprendizado com meu público
-- Acompanho de perto funcionalidades que estão por vi, as quais são do meu interesse e da comunidade ao meu redor
+- Acompanho de perto funcionalidades que estão por vir, as quais são do meu interesse e da comunidade ao meu redor
 - Venho aprendendo a ser objetivo no que quero ensinar, com exemplo práticos, direto ao ponto e fáceis de "digerir", além de uma estrutura clara na forma de repassar o conhecimento
 
 ## _Hands-on_
