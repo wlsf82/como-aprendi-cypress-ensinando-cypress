@@ -42,13 +42,13 @@ E então minha história com o [Cypress](https://www.cypress.io/) começou.
 ## Em 2020
 
 - Lancei o [curso intermediário de Cypress](https://www.udemy.com/course/testes-automatizados-com-cypress-intermediario/?referralCode=F14505FB0076672E51A2), voltado a ensinar como otimizar testes de _GUI_ (_graphical user interface_) utilizando chamadas de API, além de uma aula sobre como utilizar o Cypress para rodar comandos a nível de sistema operacional. Neste curso também ensinei o básico de _CI_. A idéa do curso veio das minhas experiencias trabalhando no GitLab
-- Lancei o curso básico de [testes de regressão visual com Cypress e Percy (básico)](https://www.udemy.com/course/testes-automatizados-com-cypress-e-percy-basico/?referralCode=BCA9A82D86243C618DA9)
+- Lancei o curso básico de [testes de regressão visual com Cypress e Percy](https://www.udemy.com/course/testes-automatizados-com-cypress-e-percy-basico/?referralCode=BCA9A82D86243C618DA9)
 
 ## Em 2021
 
 - Me tornei [embaixador do Cypress](https://www.cypress.io/ambassadors/)!
 - Retomei a escrita constante no blog TAT com as "Pitadas de Cypress", inspiradas em aprendizados que eu queria passar adiante, além de respostas para perguntas frequentes da comunidade
-- Retomei a criação de vídeos no YouTube (lives, cy.handsOn, cy.chat, explorando a Cypress RWA, Exemplos do Cypress, etc.)
+- Retomei a criação de vídeos no YouTube (lives, cy.handsOn, cy.chat, explorando a [Cypress RWA](https://github.com/cypress-io/cypress-realworld-app), Exemplos do Cypress, etc.)
 - Criei a [_Newsletter_ da TAT](https://mailchi.mp/6b1f35857228/newsletter-talking-about-testing), onde alguns (ou quem sabe vários) conteúdos exclusivos foram/são sobre Cypress
 - Fiz dois cursos que influenciaram em minha metodologia de ensino, os quais moldaram os próximos curso que eu viria a lançar/re-lançar. Os cursos foram o [Epic React](https://epicreact.dev/), de Kent C. Dodds, e [_CSS for JavaScript Developers_](https://css-for-js.dev/) de Josh Comeau
 - Lancei o [curso Avançado de Cypress](https://www.udemy.com/course/testes-automatizados-com-cypress-avancado/?referralCode=92639E4BD579A09A972D) para ensinar como testar o _frontend_ desacoplado do _backend_, com a idéia de atrair não só _testers_, como também _developers_
