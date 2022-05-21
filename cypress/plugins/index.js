@@ -1,7 +1,6 @@
 /**
  * @type {Cypress.PluginConfig}
  */
-// eslint-disable-next-line no-unused-vars
 module.exports = (on, config) => {
   const options = {
     printLogsToConsole: 'always',
@@ -13,4 +12,5 @@ module.exports = (on, config) => {
     }
   }
   require('cypress-terminal-report/src/installLogsPrinter')(on, options)
+  return config
 }
