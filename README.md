@@ -64,8 +64,8 @@ ___
 ## Aprendizados
 
 - Ouço meus "seguidores" e alinho o que me interessa com algo que possa os/as ajudar
-- Criei uma cadência de criação de conteúdo (lives semanais, posts mensais, _Newsletter_ mensal e [podcast](https://anchor.fm/testando-na-gringa) mensal)
-- Criei uma cadência semanal de aprendizado, como consequência das cadências de criação de conteúdo
+- Criei uma cadência de criação de conteúdos (lives semanais, posts mensais, _Newsletter_ mensal e [podcast](https://anchor.fm/testando-na-gringa) mensal)
+- Criei uma cadência semanal de aprendizado, como consequência das cadências de criação de conteúdos
 - Acompanho de perto o [_changelog_](https://docs.cypress.io/guides/references/changelog) do Cypress e suas novas versões
 - Acompanho outros criadores de conteúdo que conhecem o Cypress profundamente
 - Experimento novas (e antigas) funcionalidades, onde muitas vezes, faço ao vivo, compartilhando meu aprendizado com meu público
