@@ -53,11 +53,11 @@ E então minha história com o [Cypress](https://www.cypress.io/) começou.
 - Fiz dois cursos que influenciaram em minha metodologia de ensino, os quais moldaram os próximos cursos que eu viria a lançar/re-lançar. Os cursos foram o [Epic React](https://epicreact.dev/), de Kent C. Dodds, e [_CSS for JavaScript Developers_](https://css-for-js.dev/) de Josh Comeau
 - Lancei o [curso Avançado de Cypress](https://www.udemy.com/course/testes-automatizados-com-cypress-avancado/?referralCode=92639E4BD579A09A972D) para ensinar como testar o _frontend_ desacoplado do _backend_, com a idéia de atrair não só _testers_, como também _developers_
 - Lancei o curso de [Boas Práticas em automação de testes com Cypress](https://www.udemy.com/course/boas-praticas-em-automacao-de-testes-com-cypress/?referralCode=53A9772BD676F93DC8A1), como uma forma de combater más práticas (gerais no desenvolvimento de software e em testes automatizados)
-- Lancei o curso de [Testes _end-to-end_ com Cypress](https://www.udemy.com/course/testes-end-to-end-com-cypress/?referralCode=BFC58FC7B29F2F37904D) (uma coleção dos meus mais recentes aprendizados e o curso mais longo e completo da Escola TAT)
+- Lancei o curso de [Testes _end-to-end_ com Cypress](https://www.udemy.com/course/testes-end-to-end-com-cypress/?referralCode=BFC58FC7B29F2F37904D) (uma coleção dos meus mais recentes aprendizados e o curso mais completo da Escola TAT)
 
 ## Em 2022
 
-- Re-lancei o [curso básico (v2)](https://www.udemy.com/course/testes-automatizados-com-cypress-basico/?referralCode=5E367E0C332F3B967B6C) em Março (que está batendo o curso de testes _e2e_) Antes do re-lançameto, o curso tinha nota 4.5. Atualmente está com nota 4.8
+- Re-lancei o [curso básico (v2)](https://www.udemy.com/course/testes-automatizados-com-cypress-basico/?referralCode=5E367E0C332F3B967B6C) em Março (que está batendo o curso de testes _e2e_.) Antes do re-lançameto, o curso tinha nota 4.5. Atualmente está com nota 4.8
 
 ___
 
